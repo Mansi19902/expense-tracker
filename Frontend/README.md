@@ -5,6 +5,6 @@
 npm create vite@latest
 npm install
 
-## Run 
-```bash
-npm run dev
+npm install tailwindcss @tailwindcss/vite
+npm install axios
+npm install recharts
