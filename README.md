@@ -1,6 +1,6 @@
 # Expense Tracker 
 
-## Installation Instructions
+## Frontend Installation Instructions
 
 ```bash
 # 1. Create a Vite project and install dependencies
